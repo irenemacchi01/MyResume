@@ -1,7 +1,6 @@
 # Portfolio Personale
 Questo progetto è stato realizzato utilizzando Bootstrap, JavaScript e PHP per il form di contatto.
 
-🔗 Visualizza il Portfolio
 
 ### Caratteristiche
 Design Responsivo: Sviluppato con Bootstrap per garantire una visualizzazione ottimale su tutti i dispositivi.
@@ -23,5 +22,7 @@ Se desideri contribuire al progetto, segui i passaggi di seguito:
   
 ### Contatti
 Sito Web: https://personale-portfolio.netlify.app/
+
 Email: irenemacchi01@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/irene-macchi-01/
