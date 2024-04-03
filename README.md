@@ -4,7 +4,9 @@ Questo progetto è stato realizzato utilizzando Bootstrap, JavaScript e PHP per 
 
 ### Caratteristiche
 Design Responsivo: Sviluppato con Bootstrap per garantire una visualizzazione ottimale su tutti i dispositivi.
+
 Interattività: Implementazione di funzionalità interattive utilizzando JavaScript.
+
 Form di Contatto: Utilizzo di PHP per il form di contatto per consentire ai visitatori di inviare messaggi direttamente dal sito.
 
 ### Tecnologie Utilizzate
