@@ -1,8 +1,7 @@
 <?php
   // Questo script PHP serve per gestire un modulo di contatto web. Quando un utente compila e invia il modulo, i dati vengono processati e inviati via email all'indirizzo specificato.
 
-  // Sostituisci contact@example.com con il tuo vero indirizzo email di ricezione.
-  $receiving_email_address = 'contact@example.com';
+  $receiving_email_address = 'irenemacchi01@gmail.com';
 
   // Controlla se la libreria "PHP Email Form" esiste
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
